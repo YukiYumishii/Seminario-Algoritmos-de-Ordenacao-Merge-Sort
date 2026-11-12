@@ -37,17 +37,17 @@ Acesse a apresentação completa sobre Merge Sort pelo link abaixo:
 
 ---
 
-5. ## Principais Conceitos Abordados
-6.   **Divisão e Conquista**: estratégia utilizada pelo Merge Sort para dividir um problema em partes menores.
-7.   **Divisão do Vetor**: Separação dos elementos em subconjuntos menores.
-8.   **Ordenação**: Organização dos elementos durante o processo de intercalação.
-9.   **Intercalação(merge)**: Combinação dos subconjuntos já ordenados.
-10.  **Aplicação Prática**: Demonstração da utilização do Merge Sort em um cenário de ordenação.
+## Principais Conceitos Abordados
+  **Divisão e Conquista**: estratégia utilizada pelo Merge Sort para dividir um problema em partes menores.
+  **Divisão do Vetor**: Separação dos elementos em subconjuntos menores.
+  **Ordenação**: Organização dos elementos durante o processo de intercalação.
+  **Intercalação(merge)**: Combinação dos subconjuntos já ordenados.
+  **Aplicação Prática**: Demonstração da utilização do Merge Sort em um cenário de ordenação.
 
-11.  ---
+---
 
-12.  ## Considerações Finais
+  ## Considerações Finais
 
-13.    O desenvolvimento deste seminário proporcionou uma compreensão mais aprofundada sobre o funcionamento do **Merge Sort** e outros algoritmos de ordenação.
-14.  Por meio da estratégia de **Divisão e Conquista**, foi possível observar como um problema pode ser dividido em partes menores e resolvido de maneira organizada e eficiente.
-15.  Dessa forma, o estudo contribuiu para ampliar o conhecimento sobre algoritmos, análise de complexidade e eficiência computacional.
+  O desenvolvimento deste seminário proporcionou uma compreensão mais aprofundada sobre o funcionamento do **Merge Sort** e outros algoritmos de ordenação.
+  Por meio da estratégia de **Divisão e Conquista**, foi possível observar como um problema pode ser dividido em partes menores e resolvido de maneira organizada e eficiente.
+  Dessa forma, o estudo contribuiu para ampliar o conhecimento sobre algoritmos, análise de complexidade e eficiência computacional.
